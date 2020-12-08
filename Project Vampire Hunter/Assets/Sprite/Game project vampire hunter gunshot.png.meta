@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: e0a251205b1f347418c1607a0b6f360b
+timeCreated: 1513347324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game project vampire hunter gunshot_0
+    21300002: Game project vampire hunter gunshot_1
+    21300004: Game project vampire hunter gunshot_2
+    21300006: Game project vampire hunter gunshot_3
+    21300008: Game project vampire hunter gunshot_4
+    21300010: Game project vampire hunter gunshot_5
+    21300012: Game project vampire hunter gunshot_6
+    21300014: Game project vampire hunter gunshot_7
+    21300016: Game project vampire hunter gunshot_8
+    21300018: Game project vampire hunter gunshot_9
+    21300020: Game project vampire hunter gunshot_10
+    21300022: Game project vampire hunter gunshot_11
+    21300024: Game project vampire hunter gunshot_12
+    21300026: Game project vampire hunter gunshot_13
+    21300028: Game project vampire hunter gunshot_14
+    21300030: Game project vampire hunter gunshot_15
+    21300032: Game project vampire hunter gunshot_16
+    21300034: Game project vampire hunter gunshot_17
+    21300036: Game project vampire hunter gunshot_18
+    21300038: Game project vampire hunter gunshot_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_14
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_15
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_16
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_17
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game project vampire hunter gunshot_19
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

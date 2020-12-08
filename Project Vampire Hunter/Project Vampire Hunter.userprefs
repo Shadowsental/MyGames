@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VampireHunterScript\PlayerScript.cs">
+    <Files>
+      <File FileName="Assets\VampireHunterScript\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\PlayerScript.cs" Line="15" Column="21" />
+      <File FileName="Assets\VampireHunterScript\ParallaxScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\UIHealthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\NextStageScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\BossHealthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\TitleMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\IdleInhouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\ControlScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\CameraFollowScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\BillboardScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\BartAndersConvoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\MouseOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\CaveLightScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\FireplaceScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\EnemyWolfScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\PlayerAttack.cs" Line="29" Column="31" />
+      <File FileName="Assets\VampireHunterScript\AmmoTextScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\EnemyAttackScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\VampireHunterScript\BulletScript.cs" Line="11" Column="51" />
+      <File FileName="Assets\VampireHunterScript\GunScript.cs" Line="35" Column="26" />
+      <File FileName="Assets\VampireHunterScript\MoveScript.cs" Line="14" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
